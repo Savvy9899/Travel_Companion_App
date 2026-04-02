@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TravelCompanion</string>
+    <string name="titleName">Travel Companion App</string>
+    <string name="selectCategory">Select Category</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="enterValue">Enter Value</string>
+    <string name="convert">Convert</string>
+    <string name="converted">Converted value will appear here</string>
+    <string name="travel_icon">Travel Icon</string>
+    <string name="notSupported">Conversion not supported</string>
+
+</resources>

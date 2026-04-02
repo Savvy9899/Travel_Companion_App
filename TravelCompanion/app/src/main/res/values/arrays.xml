@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency_units">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>AUD</item>
+        <item>LKR</item>
+        <item>INR</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Mile</item>
+        <item>Foot</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+    </string-array>
+</resources>
